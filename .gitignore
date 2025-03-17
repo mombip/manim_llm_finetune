@@ -1,0 +1,8 @@
+wandb/**/*
+outputs_/**/*
+_unsloth_temporary_saved_buffers/**/*
+outputs/**/*
+unsloth_compiled_cache/**/*
+unsloth_compiled_cache/__pycache__/**/*
+.env
+datasets/**/*
